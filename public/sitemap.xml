@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://suncoastlug.org/posts/hello-world/</loc>
+    <lastmod>2019-05-08T20:08:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://suncoastlug.org/posts/</loc>
+    <lastmod>2019-05-08T20:08:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://suncoastlug.org/</loc>
+    <lastmod>2019-05-08T20:08:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://suncoastlug.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://suncoastlug.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

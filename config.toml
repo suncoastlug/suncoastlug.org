@@ -1,0 +1,4 @@
+baseURL = "https://suncoastlug.org/"
+languageCode = "en-us"
+title = "Suncoast LUG"
+theme = "hugo-flex"
